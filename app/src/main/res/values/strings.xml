@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string-array name="book_titles">
+        <item>Красный смех</item>
+        <item>Симулякры и симуляция</item>
+        <item>Собачье сердце</item>
+        <item>На дне</item>
+        <item>Игрок</item>
+        <item>Мы</item>
+        <item>Москва-Петушки</item>
+        <item>Посторонний</item>
+        <item>Крысы в стенах</item>
+        <item>Дорога</item>
+        <item>Изнанка крысы</item>
+        <item>Так говорил Заратустра</item>
+        <item>Бойцовский клуб</item>
+        <item>Generation P</item>
+        <item>Падение дома Ашеров</item>
+        <item>Всадник без головы</item>
+        <item>Слова</item>
+        <item>Пикник на обочине</item>
+        <item>Психопатология обыденной жизни</item>
+        <item>Флатландия</item>
+        <item>У меня нет рта, но я должен кричать</item>
+    </string-array>
+
+    <string-array name="book_authors">
+        <item>Леонид Андреев</item>
+        <item>Жан Бодрийяр</item>
+        <item>Михаил Булгаков</item>
+        <item>Максим Горький</item>
+        <item>Федор Достоевский</item>
+        <item>Евгений Замятин</item>
+        <item>Венедикт Ерофеев</item>
+        <item>Альбер Камю</item>
+        <item>Говард Лавкрафт</item>
+        <item>Кормак Маккарти</item>
+        <item>Роман Михайлов</item>
+        <item>Фридрих Ницше</item>
+        <item>Чак Паланик</item>
+        <item>Виктор Пелевин</item>
+        <item>Эдгар По</item>
+        <item>Майн Рид</item>
+        <item>Жан-Поль Сартр</item>
+        <item>Братья Стругацкие</item>
+        <item>Зигмунд Фрейд</item>
+        <item>Эдвин Эбботт</item>
+        <item>Харлан Эллисон</item>
+    </string-array>
+
+</resources>
